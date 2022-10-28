@@ -1,0 +1,46 @@
+{
+  "name": "Portifolio_PWA",
+  "short_name": "Portifolio_PWA",
+  "categories": [
+    "entertainment"
+  ],
+  "orientation": "natural",
+  "screenshots": [
+    {
+      "src": "assets/img/512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "platform": "ios",
+      "label": "Homescreen of Awesome App"
+    }
+  ],
+  "icons": [
+    {
+      "src": "assets/img/120.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/180.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "shortcuts": [
+    {
+      "name": "Contatos",
+      "url": "index.html",
+      "description": "List of jobs and projects"
+    }
+  ]
+}
